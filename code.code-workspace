@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "code",
+			"path": "../code"
+		},
+		{
+			"name": "Bing Videos_files",
+			"path": "../code/Bing Videos_files"
+		},
+		{
+			"name": "gojo",
+			"path": "../gojo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code"
+	}
+}
